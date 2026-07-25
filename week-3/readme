@@ -1,0 +1,20 @@
+HerNetIQ AI Security Fellowship - Week 3 Assignment
+Hardened Cloud IAM Framework
+Executive Summary: A stolen API key enabled an attacker to escalate privileges because the
+application had excessive IAM permissions and unrestricted role assumption.
+Security Weaknesses Identified:
+- Overly permissive IAM policy.
+- Unrestricted sts:AssumeRole.
+- Missing policy conditions.
+- Failure to apply least privilege.
+Risk Assessment: These weaknesses could lead to privilege escalation, data theft, infrastructure
+compromise, and service disruption.
+Recommended Controls:
+- Apply least privilege.
+- Remove wildcard permissions.
+- Restrict access to specific resources.
+- Remove unnecessary sts:AssumeRole.
+- Add IAM conditions (MFA, IP restrictions).
+- Audit IAM policies regularly.
+Conclusion: Applying least privilege and restricting permissions greatly reduces the impact of stolen
+credentials.
