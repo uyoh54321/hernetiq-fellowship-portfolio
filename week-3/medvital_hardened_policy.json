@@ -1,0 +1,11 @@
+"Action":[
+	"s3:Get object", //read files only 
+	"s3:Listbucket", // see what is in the bucket 
+	"rds:DescribeDBInstance", // check DB status
+	"rds:Connect" // connect to one specific database
+],
+"Resource": [ // specific resource only 
+"arn:aws:s3:::medvital-patient-docs"
+"arn:aws:rds:eu-west-1:123456789:db:medvital-prod"
+]
+
