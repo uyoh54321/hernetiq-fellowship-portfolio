@@ -56,9 +56,7 @@ Direct Override + Gradual Escalation
 
 The early attempts used direct instruction overrides. When those failed, the attack was gradually changed to security-testing and authorization framing.
 
-Evidence
 
-Attach the Level 1 screenshot showing the successful password/goal extraction here.
 
 Level 2 — Adept
 
@@ -116,9 +114,7 @@ Gradual Escalation
 
 The attack progressed from direct override attempts to authorization framing and finally to manipulating how the assistant interpreted the relationship between authenticated identity and delegated sender.
 
-Evidence
 
-Attach the Level 2 screenshot showing the successful password/goal extraction here.
 
 Level 3 — Master
 
@@ -213,9 +209,7 @@ Gradual Escalation / Hypothetical Framing
 
 The Level 3 work moved from direct prompt attempts to application reconnaissance, dry-run analysis, tool discovery, and inspection of application-provided data.
 
-Evidence
 
-Attach the Level 3 reconnaissance screenshots here. Do not label them as successful password-extraction evidence because the Level 3 objective was not completed.
 
 What This Taught Me About Blue Team Work
 
