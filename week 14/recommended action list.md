@@ -1,4 +1,4 @@
-## 4. Recommended Actions
+##  Recommended Actions
 
 | # | Recommended Action | Owner | Timeframe | Measurable Outcome |
 |---|---|---|---|---|
