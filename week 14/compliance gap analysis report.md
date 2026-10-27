@@ -1,6 +1,5 @@
 # AI Compliance Gap Analysis Report
 
-**Assessment:** HerNetIQ S28/S29  
 **Overall Risk:** HIGH
 
 ## 1. Executive Summary
